@@ -57,4 +57,4 @@ def bionomial_dist():
       print(f"The probability that up to {num_of_success} trials of {fixed_trials} trials will become {success} is {rounded_prob}")
   
 
-bionomial_dist()
+
