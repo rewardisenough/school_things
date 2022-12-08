@@ -55,6 +55,15 @@ def bionomial_dist():
     else:
       rounded_prob = round(probability,4)
       print(f"The probability that up to {num_of_success} trials of {fixed_trials} trials will become {success} is {rounded_prob}")
+
+  mean = fixed_trials * prob_of_success
+  mean = round(mean,3)
+  print(f"In many random samples of {fixed_trials}, average of {mean} will be {random_variable} ")
+
+  standard_deviation = math.sqrt((fixed_trials*prob_of_success)*(1-prob_of_success))
+  standard_deviation = round(standard_deviation,3)
+  print(f"On average or in the long run, the number of {success} will typically vary from the mean of {mean} by about {standard_deviation}")
   
 
+bionomial_dist()
 
