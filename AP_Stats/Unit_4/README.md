@@ -1,7 +1,11 @@
 # AP Stats unit 4
 
-## 4.1: Random Process
+## 4.10: Bionomial distribution. Credit: AP Stats 4.10 daily video 1.
 
-Definition: We know the possibility of different outcomes, but we are not absolutely certain whtat the outcome will be. We know the theoratical probability in the long run. i.e, there is 50% for heads or tail in the long run for coin tossing.
+Definition: A bionomial setting involves repeated trials of a random process, where the following conditions are met:
 
-## 
+- Two possible outcomes: success or failure.
+- Independent trials of same random process.
+- A fixed number of trials, n.
+- Each trial has the same probability of success, p.
+ 
