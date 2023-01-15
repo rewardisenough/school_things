@@ -17,3 +17,10 @@ Key takeaways:
 Key takeaways:
 1. A linear combination (including a difference or a sum) of two independent approximately normal random variables can be modeled by a normal distribution.
 2. The procedure learned to find probabilities using a normal distribution also apply when finding probabilities involving a linear combination of independent, approximately normal random variables.
+
+## 5.2 Video 3
+
+Key takeaways:
+Characteristics to check for an approximately normal distribution:
+1. Unimodal, roughly symmetric, bell-shaped
+2. Emprical rule generally applies(68-95-99.7).
